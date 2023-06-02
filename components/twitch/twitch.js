@@ -4,7 +4,7 @@ export default function Twitch() {
       <div className="md:col-span-2 lg:col-span-3 rounded overflow-hidden">
         <iframe
           className="w-full"
-          src="https://player.twitch.tv/?channel=makadonveli&parent=localhost&parent=makadonveli.co.uk&autoplay=true"
+          src="https://player.twitch.tv/?channel=makadonveli&parent=makadonveli.co.uk&autoplay=true"
           frameborder="0"
           allowfullscreen="true"
           height="100%"
