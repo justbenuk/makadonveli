@@ -8,8 +8,8 @@ export default function Hero() {
         <Header />
         <div className="h-full flex flex-col items-center justify-center">
           <h1 className="text-4xl lg:text-6xl font-bold uppercase">MakaDonVeli</h1>
-            <p className="font-bold text-lg mt-2">Join the saltiest community on the planet. With Variaty Games, GTA, Squad and many more</p>
-          <Link className="mt-4 bg-gray-900 px-12 py-2 rounded shadow-xl" href='https://www.twitch.tv/makadonveli'>Watch Now</Link>
+            <p className="font-bold text-lg mt-2 text-center px-6">Join the saltiest community on the planet. With Variaty Games, GTA, Squad and many more</p>
+          <Link className="mt-4 bg-gray-900 px-12 py-2 rounded shadow-xl font-bold " href='https://www.twitch.tv/makadonveli'>Watch Now</Link>
         </div>
       </div>
     </div>

@@ -15,7 +15,7 @@ export default function RootLayout({ children }) {
     <html lang="en" className='h-screen'>
       <body className={inter.className }>
         <Hero />
-        <main className=''>{children}</main>
+        <main className='container mx-auto px-6 lg:px-0'>{children}</main>
         <Analytics />
       </body>
     </html>
