@@ -14,7 +14,7 @@ export default function Twitch() {
       <div className="hidden md:block md:col-span-2 lg:col-span-1 rounded overflow-hidden">
         <iframe id="twitch-chat-embed"
           className="w-full"
-          src="https://www.twitch.tv/embed/makadonveli/chat?parent=localhost"
+          src="https://www.twitch.tv/embed/makadonveli/chat?parent=makadonveli.co.uk"
           height="100%"
           width="350">
         </iframe>      </div>
