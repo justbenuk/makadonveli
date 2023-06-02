@@ -4,7 +4,7 @@ export default function Twitch() {
       <div className="md:col-span-2 lg:col-span-3 rounded overflow-hidden">
         <iframe
           className="w-full"
-          src="https://player.twitch.tv/?channel=makadonveli&parent=makadonveli.co.uk&autoplay=true"
+          src="https://player.twitch.tv/?channel=makadonveli&parent=www.makadonveli.co.uk&autoplay=true"
           frameborder="0"
           allowfullscreen="true"
           height="100%"
@@ -14,7 +14,7 @@ export default function Twitch() {
       <div className="hidden md:block md:col-span-2 lg:col-span-1 rounded overflow-hidden">
         <iframe id="twitch-chat-embed"
           className="w-full"
-          src="https://www.twitch.tv/embed/makadonveli/chat?parent=makadonveli.co.uk"
+          src="https://www.twitch.tv/embed/makadonveli/chat?parent=www.makadonveli.co.uk"
           height="100%"
           width="350">
         </iframe>      </div>
